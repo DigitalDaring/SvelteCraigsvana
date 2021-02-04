@@ -25,7 +25,16 @@
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
+		margin-left: 0;
+		padding-left:0;
 	}
+	@media screen and (max-width: 400px)
+	{
+		ul {
+			margin-left: -24px;
+		}
+	}
+
 </style>
 
 <svelte:head>

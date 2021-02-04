@@ -1,5 +1,5 @@
 import { writable } from 'svelte/store';
-import type { LikeCounterModel } from '../types/LikeCounter';
+import type { LikeCounterModel } from '../types/like-counter';
 
 const defaultValue = {
     count: 0

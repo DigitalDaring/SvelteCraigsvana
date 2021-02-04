@@ -5,7 +5,7 @@
   const taxRate = .056;
   const finalPrice = car.price + car.price * taxRate;
   let downPayment: number = 0;
-  $: financedAmount =  finalPrice - downPayment;
+  $: financedAmount = finalPrice - downPayment;
 </script>
 
 <style>

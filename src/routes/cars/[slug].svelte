@@ -19,12 +19,6 @@
 	import Purchase from '../../components/Purchase.svelte';
 </script>
 
-<style>
-
-	
-
-</style>
-
 <svelte:head>
 	<title>{car.ymm}</title>
 </svelte:head>
