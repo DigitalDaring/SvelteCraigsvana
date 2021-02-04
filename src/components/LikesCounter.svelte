@@ -1,7 +1,7 @@
 <script lang="ts">
     import { onDestroy } from 'svelte';
     import { LikeStore } from '../stores/LikeStore';
-    import type { LikeCounterModel } from '../types/LikeCounter'
+    import type { LikeCounterModel } from '../types/like-counter'
 
     /* Manually Subscribe 
     let currentCount = 0;

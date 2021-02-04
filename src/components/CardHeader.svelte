@@ -14,7 +14,7 @@
 <style>
     .card-header {
         width: 100%;
-        height: 200px;
+        min-height: 200px;
         background-color: #000;
         position: relative;
     }
