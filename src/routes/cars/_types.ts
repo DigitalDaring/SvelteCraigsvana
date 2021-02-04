@@ -1,4 +1,4 @@
-export type CAR = {
+export type CarModel = {
     slug: string,
     ymm: string,
     price: number,

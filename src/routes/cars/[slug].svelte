@@ -14,8 +14,8 @@
 </script>
 
 <script lang="ts">
-	import type { CAR } from './_types';
-	export let car: CAR;
+	import type { CarModel } from './_types';
+	export let car: CarModel;
 </script>
 
 <style>

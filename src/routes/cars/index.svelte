@@ -10,8 +10,8 @@
 <script lang="ts">
 	import Card from '../../components/Card.svelte';
 	import CardHeader from '../../components/CardHeader.svelte';
-	import type {CAR} from './_types';
-	export let cars: Array<CAR>;
+	import type {CarModel} from './_types';
+	export let cars: Array<CarModel>;
 </script>
 
 <style>

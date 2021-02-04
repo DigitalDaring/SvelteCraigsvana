@@ -5,11 +5,6 @@
 </script>
 
 <style>
-	html, body {
-		height: 100%;
-		width: 100%;
-	}
-	
 	main {
 		position: relative;
 		width: 100%;
